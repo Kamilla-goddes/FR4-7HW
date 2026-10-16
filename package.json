@@ -1,0 +1,27 @@
+{
+  "name": "fr4-7hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+"scripts": {
+  "start": "parcel src/index.html"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamilla-goddes/FR4-7HW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamilla-goddes/FR4-7HW/issues"
+  },
+  "homepage": "https://github.com/Kamilla-goddes/FR4-7HW#readme",
+  "dependencies": {
+    "handlebars": "^4.7.10"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4",
+    "parcel-transformer-handlebars": "^1.0.0"
+  }
+}
